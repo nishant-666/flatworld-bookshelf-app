@@ -1,0 +1,10 @@
+.common-input {
+  height: 30px;
+  padding-left: 10px;
+  background-color: white;
+  color: black;
+  font-family: "Roboto", sans-serif;
+  outline: none;
+  width: 200px;
+  margin: 10px;
+}

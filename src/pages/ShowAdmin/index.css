@@ -1,0 +1,22 @@
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.books-item {
+  background-color: rgb(55, 55, 55);
+  height: 350px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  padding: 20px;
+}
+
+.books-item:hover {
+  background-color: rgb(19, 18, 18);
+}
