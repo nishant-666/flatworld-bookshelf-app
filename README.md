@@ -10,9 +10,9 @@
 
 ## Screenshots
 
-![Screenshot 1](1.png)
-![Screenshot 2](2.png)
-![Screenshot 3](3.png)
+![Screenshot 1](/screenshots/1.png)
+![Screenshot 2](/screenshots/2.png)
+![Screenshot 3](/screenshots/3.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
