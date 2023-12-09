@@ -1,6 +1,18 @@
 # React + TypeScript + Vite
 
-### Link: https://flatworld-bookshelf-app.vercel.app/
+## Link: https://flatworld-bookshelf-app.vercel.app/
+
+### Steps to run:
+
+1. Clone the project
+2. npm install
+3. npm run dev
+
+## Screenshots
+
+![Screenshot 1](1.png)
+![Screenshot 2](2.png)
+![Screenshot 3](3.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
